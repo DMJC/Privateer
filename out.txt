@@ -1,0 +1,3921 @@
+Registering codec ffmpeg as universal.
+Registering codec ogg.
+ In path /home/james/development/privgold/vsengine/vegastrike/build
+Vega Strike  
+See http://www.gnu.org/copyleft/gpl.html for license details.
+
+GOT SUBDIR ARG = 
+Found data in /home/james/games/Privateer
+Using /home/james/games/Privateer as data directory
+Using .privgold100 as the home directory
+Found MODDIR = /home/james/games/Privateer/mods
+USING HOMEDIR : /home/james/.privgold100 As the home directory 
+CONFIGFILE - No config found in home : /home/james/.privgold100/vegastrike.config
+CONFIGFILE - No home config file found, using datadir config file : /home/james/games/Privateer/vegastrike.config
+DATADIR - No datadir specified in config file, using ; /home/james/games/Privateer
+SIMULATION_ATOM: 0.06
+MISSION_NAME is empty using : main_menu.mission
+running import sys
+print(sys.path)
+sys.path = ["",r"/home/james/games/Privateer/modules/builtin",r"/home/james/games/Privateer/modules/quests",r"/home/james/games/Privateer/modules/missions",r"/home/james/games/Privateer/modules/ai",r"/home/james/games/Privateer/modules",r"/home/james/games/Privateer/bases"] + sys.path
+testing VS randomrunning import sys
+print(sys.path)
+['/usr/lib/python2.7/', '/usr/lib/python2.7/plat-x86_64-linux-gnu', '/usr/lib/python2.7/lib-tk', '/usr/lib/python2.7/lib-old', '/usr/lib/python2.7/lib-dynload']
+['', '/home/james/games/Privateer/modules/builtin', '/home/james/games/Privateer/modules/quests', '/home/james/games/Privateer/modules/missions', '/home/james/games/Privateer/modules/ai', '/home/james/games/Privateer/modules', '/home/james/games/Privateer/bases', '/usr/lib/python2.7/', '/usr/lib/python2.7/plat-x86_64-linux-gnu', '/usr/lib/python2.7/lib-tk', '/usr/lib/python2.7/lib-old', '/usr/lib/python2.7/lib-dynload']
+Cannot connect to server socket err = No such file or directory
+Cannot connect to server request channel
+jack server is not running or cannot be started
+JackShmReadWritePtr::~JackShmReadWritePtr - Init not done for 4294967295, skipping unlock
+JackShmReadWritePtr::~JackShmReadWritePtr - Init not done for 4294967295, skipping unlock
+AL lib: (WW) ALCjackBackendFactory_init: jack_client_open() failed, 0x11
+AL lib: (WW) alc_initconfig: Failed to initialize backend "jack"
+Creating scene manager...
+Creating template manager...
+  Initializing renderer...
+0 joysticks were found.
+
+The names of the joysticks are:
+
+Reading PNG File
+Loading PNG: maintitle.png
+3. Allocating image buffer of size = 3145728 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+Reading BMP File
+FactionXML:LoadXML factions.xml
+
+Reading PNG File
+Loading PNG: black.png
+3. Allocating image buffer of size = 4 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: black.png
+3. Allocating image buffer of size = 4 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 00000.png
+Iterated trans channels 2
+error in image type3. Allocating image buffer of size = 131072 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 00001.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 262144 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 00002.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 262144 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 00003.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 262144 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 00004.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 262144 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 00005.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 262144 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 00006.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 262144 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 00007.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 262144 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 00008.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 262144 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 00009.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 262144 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 00010.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 262144 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 00011.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 262144 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 00012.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 262144 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 00013.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 262144 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 00014.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 262144 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 00015.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 262144 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 00016.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 262144 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 00017.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 262144 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 00018.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 262144 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 00019.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 262144 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 00020.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 262144 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 00021.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 262144 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 00022.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 262144 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 00023.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 262144 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 00024.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 262144 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 00025.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 262144 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 00026.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 262144 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 00027.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 262144 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 00028.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 262144 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 00029.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 262144 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 00030.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 262144 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 00031.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 262144 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 00032.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 262144 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 00033.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 262144 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 00034.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 262144 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 00035.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 262144 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 00036.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 262144 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 01.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 02.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 03.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 08.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 01.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 02.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 03.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 10.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 01.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 02.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 03.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 05.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 01.png
+3. Allocating image buffer of size = 24576 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 02.png
+3. Allocating image buffer of size = 24576 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 03.png
+3. Allocating image buffer of size = 24576 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 04.png
+3. Allocating image buffer of size = 24576 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 01.png
+3. Allocating image buffer of size = 24576 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 02.png
+3. Allocating image buffer of size = 24576 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 03.png
+3. Allocating image buffer of size = 24576 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 04.png
+3. Allocating image buffer of size = 24576 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 01.png
+3. Allocating image buffer of size = 24576 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 02.png
+3. Allocating image buffer of size = 24576 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 03.png
+3. Allocating image buffer of size = 24576 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 04.png
+3. Allocating image buffer of size = 24576 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 01.png
+3. Allocating image buffer of size = 196608 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 02.png
+3. Allocating image buffer of size = 196608 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 08.png
+3. Allocating image buffer of size = 196608 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 12.png
+3. Allocating image buffer of size = 196608 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 01.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 02.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 10.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 11.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 01.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 02.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 07.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 09.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 01.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 02.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 03.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 08.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 01.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 02.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 03.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 08.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 01.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 02.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 10.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 13.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 01.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 02.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 04.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 09.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 01.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 02.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 08.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 09.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 01.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 02.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 03.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 01.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 02.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 05.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 09.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 01.png
+3. Allocating image buffer of size = 196608 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 02.png
+3. Allocating image buffer of size = 196608 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 06.png
+3. Allocating image buffer of size = 196608 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 07.png
+3. Allocating image buffer of size = 196608 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 01.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 02.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 04.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 01.png
+3. Allocating image buffer of size = 196608 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 02.png
+3. Allocating image buffer of size = 196608 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 10.png
+3. Allocating image buffer of size = 196608 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 01.png
+3. Allocating image buffer of size = 196608 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 02.png
+3. Allocating image buffer of size = 196608 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 07.png
+3. Allocating image buffer of size = 196608 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 11.png
+3. Allocating image buffer of size = 196608 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 01.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 02.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 03.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 12.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 01.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 02.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 05.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 01.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 02.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 06.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 10.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 01.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 02.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 05.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 08.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 01.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 02.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 05.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 09.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 01.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 02.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 06.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 11.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 01.png
+3. Allocating image buffer of size = 24576 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 02.png
+3. Allocating image buffer of size = 24576 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 03.png
+3. Allocating image buffer of size = 24576 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 04.png
+3. Allocating image buffer of size = 24576 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 01.png
+3. Allocating image buffer of size = 24576 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 02.png
+3. Allocating image buffer of size = 24576 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 03.png
+3. Allocating image buffer of size = 24576 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 04.png
+3. Allocating image buffer of size = 24576 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 01.png
+3. Allocating image buffer of size = 24576 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 02.png
+3. Allocating image buffer of size = 24576 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 03.png
+3. Allocating image buffer of size = 24576 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 04.png
+3. Allocating image buffer of size = 24576 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 01.png
+3. Allocating image buffer of size = 24576 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 02.png
+3. Allocating image buffer of size = 24576 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 03.png
+3. Allocating image buffer of size = 24576 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 04.png
+3. Allocating image buffer of size = 24576 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 01.png
+3. Allocating image buffer of size = 24576 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 02.png
+3. Allocating image buffer of size = 24576 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 03.png
+3. Allocating image buffer of size = 24576 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 04.png
+3. Allocating image buffer of size = 24576 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 01.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 02.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 03.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 04.png
+3. Allocating image buffer of size = 49152 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: Warp0000.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: Warp0001.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: Warp0002.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: Warp0003.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: Warp0004.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: Warp0005.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: Warp0006.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: Warp0007.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: Warp0008.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: Warp0009.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: Warp0010.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: Warp0011.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: Warp0012.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: Warp0013.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: Warp0014.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: Warp0015.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: Warp0016.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: Warp0017.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: Warp0018.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: Warp0019.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: Warp0020.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: Warp0021.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: Warp0022.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: Warp0023.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: Warp0024.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: Warp0025.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: Warp0026.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: Warp0027.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: Warp0028.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: Warp0029.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: Warp0030.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: Warp0031.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: Warp0032.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: Warp0033.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: Warp0034.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: Warp0035.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: Warp0036.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: Warp0037.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: Warp0038.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: Warp0039.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: Warp0040.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: Warp0041.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: Warp0042.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: Warp0043.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: Warp0044.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: Warp0045.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: Warp0046.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+retuMin (0.000000, 0.000000, 0.000000) Max(0.000000, 0.000000, 0.000000) MinLumin 1.000000, MaxLumin 1.000000
+Read In Star Count 0 used: 1000
+rning result
+
+Reading PNG File
+Loading PNG: Warp0047.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: Warp0048.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: Warp0049.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: Warp0050.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+using NV_CUBE_MAP
+
+Reading PNG File
+Loading PNG: 01.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 02.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 03.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 04.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 05.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 06.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 07.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 08.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 09.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 10.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 11.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 12.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 13.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 14.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 15.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 16.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 17.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 18.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 19.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 20.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 21.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 22.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 23.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 24.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 25.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 26.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 27.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 28.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 29.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 01.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 02.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 03.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 04.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 05.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 06.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 07.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 08.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 09.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 10.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 11.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 12.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 13.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 14.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 15.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 16.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 17.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 18.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 19.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 20.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 21.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 22.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 23.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage Min (0.000000, 0.000000, 0.000000) Max(0.000000, 0.000000, 0.000000) MinLumin 1.000000, MaxLumin 1.000000
+Read In Star Count 0 used: 104
+1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 24.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 25.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 26.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 27.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 28.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 29.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+Loading a starsystem
+Loading Star System Special/Empty
+
+refusing to bind command to joystick (joy-nr too high)
+FOUND MODIFICATION = player FOR PLAYER #0
+CREATING A LOCAL SHIP : dumbfire
+Hi helper play 0
+HereInitializing optimizer
+
+Reading PNG File
+Loading PNG: missile-hud.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 262144 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+Reading BMP File
+Compilation of technique fixed successful
+Compilation of technique default successful
+
+Reading PNG File
+Loading PNG: invisible.png
+Iterated trans channels 2
+error in image type3. Allocating image buffer of size = 2 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: thrust0000.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 262144 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: thrust0001.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 262144 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: thrust0002.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 262144 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: thrust0003.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 262144 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: thrust0004.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 262144 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: thrust0005.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 262144 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: thrust0006.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 262144 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: thrust0007.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 262144 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: thrust0008.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 262144 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: thrust0009.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 262144 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: thrust0010.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 262144 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: thrust0012.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 262144 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: thrust0013.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 262144 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: thrust0014.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 262144 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: thrust0015.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 262144 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: thrust0016.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 262144 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: thrust0017.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 262144 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: thrust0018.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 262144 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: thrust0019.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 262144 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+Compilation of technique fixed_simple successful
+
+Reading PNG File
+Loading PNG: shield01.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: shield02.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: shield03.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: shield04.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: shield05.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: shield06.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: shield07.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: shield08.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: shield09.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 65536 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+Reading JPG File
+
+Reading PNG File
+Loading PNG: crosshairs.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 16384 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+pox 18068.451000 -60.189000 -371.339000
+
+Reading PNG File
+Loading PNG: interfaces/quine/main.png
+3. Allocating image buffer of size = 3145728 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+Traceback (most recent call last):
+  File "main_menunightprivateer.py", line 62, in <module>
+  File "/home/james/games/Privateer/bases/computer_lib.py", line 128, in MakePersonalComputer
+    comp = QuineComputer(room_id, room_concourse, enable_missions, enable_finances, enable_manifest, enable_load, enable_save)
+  File "/home/james/games/Privateer/bases/computer_lib.py", line 267, in __init__
+    current_base = universe.getDockedBase()
+  File "/home/james/games/Privateer/modules/universe.py", line 194, in getDockedBase
+    while iter.notDone():
+AttributeError: 'un_iter' object has no attribute 'notDone'
+Traceback (most recent call last):
+  File "<string>", line 10, in <module>
+  File "/home/james/games/Privateer/modules/privateer.py", line 2, in <module>
+    from random_encounters import random_encounters
+  File "/home/james/games/Privateer/modules/random_encounters.py", line 9, in <module>
+    import news
+  File "/home/james/games/Privateer/modules/news.py", line 7, in <module>
+    dnewsman_ = dynamic_news.NewsManager()
+  File "/home/james/games/Privateer/modules/dynamic_news.py", line 293, in __init__
+    self.updateDockedAtFaction()
+  File "/home/james/games/Privateer/modules/dynamic_news.py", line 358, in updateDockedAtFaction
+    while i.notDone():
+AttributeError: 'un_iter' object has no attribute 'notDone'
+Force feedback support disabled when compiled
+Unit file contraband not found
+Unit file contraband not found
+Unit file contraband not found
+Unit file contraband not found
+Unit file contraband not found
+Unit file contraband not found
+Unit file contraband not found
+Unit file contraband not found
+Unit file contraband not found
+Unit file contraband not found
+Unit file contraband not found
+Unit file contraband not found
+Unit file contraband not found
+Unit file contraband not found
+Unit file contraband not found
+Unit file contraband not found
+Unit file contraband not found
+Unit file contraband not found
+Unit file contraband not found
+Error picking comm animation for 25 faction with bas:0 dock:0
+Unit file contraband not found
+Error picking comm animation for 26 faction with bas:0 dock:0
+Unit file contraband not found
+Error picking comm animation for 27 faction with bas:0 dock:0
+Unit file contraband not found
+Error picking comm animation for 28 faction with bas:0 dock:0
+Unit file contraband not found
+Error picking comm animation for 29 faction with bas:0 dock:0
+Loading completed, now network init
+Loading active missions True
+
+Reading PNG File
+Loading PNG: mouseover.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 16384 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: mouse.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 16384 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 01.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 16384 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 02.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 16384 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 03.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 16384 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 04.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 16384 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+
+Reading PNG File
+Loading PNG: 05.png
+Iterated trans channels 4
+24-Bit Alpha Image
+3. Allocating image buffer of size = 16384 
+stage 1
+stage 2
+stage 3
+No Transformation
+decompression done
+Showing result
+returning result
+Traceback (most recent call last):
+  File "<string>", line 3, in <module>
+NameError: name 'GUIRootSingleton' is not defined
+Traceback (most recent call last):
+  File "<string>", line 3, in <module>
+NameError: name 'GUIRootSingleton' is not defined
+Traceback (most recent call last):
+  File "<string>", line 3, in <module>
+NameError: name 'GUIRootSingleton' is not defined
+Traceback (most recent call last):
+  File "<string>", line 3, in <module>
+NameError: name 'GUIRootSingleton' is not defined
